@@ -70,6 +70,9 @@ body{
         margin-left: 0;
     }
 }
+
+// Стилизация меню(button)
+// Способ с помощью (box-shadow) и (after)
 .menu{
     &__btn{
         width: 40px;
@@ -98,3 +101,5 @@ body{
         }
     }
 }
+
+// 55минута
