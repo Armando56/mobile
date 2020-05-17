@@ -48,7 +48,8 @@ li {
   list-style: none; }
 
 button {
-  padding: 0; }
+  padding: 0;
+  cursor: pointer; }
 
 p {
   margin: 0; }
